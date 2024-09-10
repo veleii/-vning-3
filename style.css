@@ -4,14 +4,30 @@ body {
 
 header {
     background-color: rgb(195, 187, 141);
-    border-radius: 20%;
+    border-radius: 10%;
+   
+    margin: 10%;
 }
+
 article {
     
     
+}
+body {
+    text-align: center;
+    margin: 10%;
 }
 
 h1 {
    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    font-size: large;
+}
+
+footer {
+    padding: 5%;
+    text-align: center; 
 }
