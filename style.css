@@ -8,6 +8,10 @@ header {
    
     margin: 10%;
 }
+img {
+    max-width: 20%;
+    height: auto;
+}
 
 article {
     
@@ -30,4 +34,12 @@ h2 {
 footer {
     padding: 5%;
     text-align: center; 
+}
+
+main {
+
+li {
+    color: blue;
+}
+
 }
