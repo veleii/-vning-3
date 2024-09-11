@@ -1,16 +1,18 @@
 body {
-    background-color: rgb(235, 222, 206);
+    background-color: rgba(235, 222, 206, 0.57);
 }
 
 header {
     background-color: rgb(195, 187, 141);
     border-radius: 10%;
-   
+   border: coral;
     margin: 10%;
 }
 img {
     max-width: 20%;
     height: auto;
+    display: flexbox;
+    align-items: flex-end;
 }
 
 article {
@@ -36,10 +38,7 @@ footer {
     text-align: center; 
 }
 
-main {
-
-li {
-    color: blue;
-}
+header:hover{
+ color: pink;
 
 }
